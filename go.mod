@@ -8,6 +8,7 @@ require (
 	github.com/dave/dst v0.27.3 // indirect
 	github.com/fatih/structtag v1.2.0 // indirect
 	github.com/julienschmidt/httprouter v1.3.0 // indirect
+	github.com/lib/pq v1.10.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
